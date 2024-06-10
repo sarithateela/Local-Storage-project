@@ -1,0 +1,44 @@
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    background-image: url('data:image/jpeg;base64,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');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    background-color: brown;
+}
+
+h1 {
+    color:white;
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+textarea {
+    width: 100%;
+    padding: 10px;
+    font-size: 18px;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    resize: vertical;
+    min-height: 200px;
+    background-color:cadetblue;
+    position:relative;
+}
+
+textarea:focus {
+    border-color: #007bff;
+    box-shadow: 0px 0px 5px rgba(0, 123, 255, 0.5);
+}
